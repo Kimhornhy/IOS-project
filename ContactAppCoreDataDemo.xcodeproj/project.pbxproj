@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		040FD16C220164BC0083B7A0 /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FD16B220164BC0083B7A0 /* model.swift */; };
 		04FC139321F2D0DB007DA5B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FC139221F2D0DB007DA5B6 /* AppDelegate.swift */; };
 		04FC139521F2D0DB007DA5B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FC139421F2D0DB007DA5B6 /* ViewController.swift */; };
 		04FC139821F2D0DB007DA5B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FC139621F2D0DB007DA5B6 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		040FD16B220164BC0083B7A0 /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
 		04FC138F21F2D0DB007DA5B6 /* ContactAppCoreDataDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactAppCoreDataDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04FC139221F2D0DB007DA5B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04FC139421F2D0DB007DA5B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				04FC13A121F2D0DB007DA5B6 /* Info.plist */,
 				04FC139921F2D0DB007DA5B6 /* ContactAppCoreDataDemo.xcdatamodeld */,
 				04FC13A721F408F0007DA5B6 /* AddContactViewController.swift */,
+				040FD16B220164BC0083B7A0 /* model.swift */,
 			);
 			path = ContactAppCoreDataDemo;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				040FD16C220164BC0083B7A0 /* model.swift in Sources */,
 				04FC139521F2D0DB007DA5B6 /* ViewController.swift in Sources */,
 				04FC13A821F408F0007DA5B6 /* AddContactViewController.swift in Sources */,
 				04FC139B21F2D0DB007DA5B6 /* ContactAppCoreDataDemo.xcdatamodeld in Sources */,

@@ -12,6 +12,8 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
     
     
     var texts :String = ""
+    
+    var i = 0
     var ID : Int = 0
     
     

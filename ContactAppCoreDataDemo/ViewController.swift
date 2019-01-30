@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+var i :Int = 0
 class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
     
     
